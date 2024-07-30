@@ -1,14 +1,13 @@
-// Basic Types
-// .Number, String, Boolean
-// Arrays, tuples
-// Any, unknown, never, void
-// Enum
-let a = 22;
-let b = 33;
+// Typescript is not about reinventing javascript
+// Dont use typeScript unless
+//TypeSafety
 
-let variable : [2, 3, 4, 5, 6];
-let arr = [1, 2, 3, 4];
+console.log("Hy I Am TypeScript!");
 
+let numOne = 3;
+let numTwo = 4;
+let sum = numOne + numTwo;
+console.log(sum)
 
 
 
